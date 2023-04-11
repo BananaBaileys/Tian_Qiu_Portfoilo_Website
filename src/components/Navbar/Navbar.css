@@ -1,0 +1,22 @@
+
+
+.app__navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--color-black);
+
+    padding: 1rem 2rem;
+}
+
+.app__navbar-pp {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.app__navbar-pp img{
+    width: 150px;
+}

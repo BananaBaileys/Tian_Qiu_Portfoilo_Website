@@ -36,8 +36,11 @@ photo portfoilo
 
 -ongoing project
 - this website
-- websites for my photos so i won't have to reply on squaresapce/3rd party!
+- websites for my photos so i won't have to rely on squaresapce/3rd party!
 - scan soduku solver
+- shopping list
+- gerich restaurant
+- Social-Media-Marketing-Tool-by-AI 
 
 -onping project photo
 - wedding
